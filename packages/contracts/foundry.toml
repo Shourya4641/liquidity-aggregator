@@ -1,0 +1,15 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+remappings = [
+    "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/",
+    "forge-std/=lib/forge-std/src/"
+]
+
+[rpc_endpoints]
+mainnet = "https://eth-mainnet.g.alchemy.com/v2/KMkk3DZ6QejOA082e1b4Ko2KQHHn6Nw6"
+sepolia = "https://eth-sepolia.g.alchemy.com/v2/KMkk3DZ6QejOA082e1b4Ko2KQHHn6Nw6"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

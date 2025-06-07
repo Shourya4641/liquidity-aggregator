@@ -1,5 +1,3 @@
-uniswap/
-
-curve/
+node_modules
 
 .vscode

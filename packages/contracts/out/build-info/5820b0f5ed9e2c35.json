@@ -1,0 +1,1 @@
+{"id":"5820b0f5ed9e2c35","source_id_to_path":{"0":"src/Router.sol","1":"src/adapters/PancakeSwapV3Adapter.sol","2":"src/adapters/UniswapV4Adapter.sol","3":"src/interfaces/IDex.sol","4":"src/interfaces/IRouter.sol","5":"src/libraries/RouteLibrary.sol"},"language":"Solidity"}

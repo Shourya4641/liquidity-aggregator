@@ -1,0 +1,28 @@
+{
+  "name": "liquidity-aggregator",
+  "private": true,
+  "version": "1.0.0",
+  "description": "1. [High-Level Architecture](#high-level-architecture) 2. [Data Fetching Strategy Comparison](#data-fetching-strategy-comparison) 3. [Project Structure](#project-structure) 4. [Development Phases](#development-phases) 5. [Routing Algorithm Design](#routing-algorithm-design) 6. [Quote Validation & Revalidation](#quote-validation--revalidation) 7. [Gas Estimation Strategy](#gas-estimation-strategy) 8. [Modular Adapter System](#modular-adapter-system) 9. [Implementation Steps](#implementation-steps) 10. [Recommended Libraries & Tools](#recommended-libraries--tools) 11. [Testing Strategy](#testing-strategy)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shourya4641/liquidity-aggregator.git"
+  },
+  "keywords": [],
+  "author": "Shourya",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shourya4641/liquidity-aggregator/issues"
+  },
+  "homepage": "https://github.com/Shourya4641/liquidity-aggregator#readme"
+}
