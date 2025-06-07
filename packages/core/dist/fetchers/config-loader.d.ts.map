@@ -1,0 +1,1 @@
+{"version":3,"file":"config-loader.d.ts","sourceRoot":"","sources":["../../src/fetchers/config-loader.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,KAAK,EAAE,GAAG,EAAE,MAAM,UAAU,CAAC;AAEtC,qBAAa,YAAY;IACvB,OAAO,CAAC,UAAU,CAAS;;IAMrB,SAAS,IAAI,OAAO,CAAC,KAAK,EAAE,CAAC;IAU7B,OAAO,IAAI,OAAO,CAAC,GAAG,EAAE,CAAC;IAUzB,WAAW,IAAI,OAAO,CAAC,GAAG,CAAC;CASlC"}

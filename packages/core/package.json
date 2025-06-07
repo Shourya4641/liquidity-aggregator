@@ -1,0 +1,28 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Core routing and logic for liquidity aggregation",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [],
+  "author": "Shourya",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^22.15.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "viem": "^2.30.6",
+    "vitest": "^3.2.2"
+  }
+}
