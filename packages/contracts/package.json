@@ -1,0 +1,17 @@
+{
+  "name": "@liquidity-aggregator/contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for liquidity aggregation",
+  "main": "index.js",
+  "scripts": {
+    "build": "forge build",
+    "test": "forge test",
+    "clean": "forge clean"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "forge-std": "^1.7.0"
+  }
+}
