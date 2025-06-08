@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Uniswap",
+    "version": "v4",
+    "chainId": 1,
+    "factoryAddress": "0x0000000000000000000000000000000000000000",
+    "routerAddress": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "name": "PancakeSwap",
+    "version": "v3",
+    "chainId": 56,
+    "factoryAddress": "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865",
+    "routerAddress": "0x13f4EA83D0bd40E75C8222255bc855a974568Dd4"
+  }
+]

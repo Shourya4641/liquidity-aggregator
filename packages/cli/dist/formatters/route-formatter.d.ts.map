@@ -1,0 +1,1 @@
+{"version":3,"file":"route-formatter.d.ts","sourceRoot":"","sources":["../../src/formatters/route-formatter.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,KAAK,EAAa,MAAM,4BAA4B,CAAC;AAE9D,qBAAa,cAAc;IACzB,WAAW,CAAC,KAAK,EAAE,KAAK,GAAG,MAAM;IAwBjC,WAAW,CAAC,KAAK,EAAE,KAAK,GAAG,MAAM;IAqBjC,OAAO,CAAC,YAAY;CAOrB"}
