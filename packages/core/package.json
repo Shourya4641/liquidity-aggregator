@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@liquidity-aggregator/core",
   "version": "1.0.0",
   "description": "Core routing and logic for liquidity aggregation",
   "main": "dist/index.js",
